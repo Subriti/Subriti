@@ -7,7 +7,7 @@
 
   <p>
     <ul>
-      <li>I am focused on building system using the following tech stacks. </li>
+      <li>I am actively trying to upskill myself and create problem-solving real-world applications with the following tech stacks. </li>
     </ul>
   </p>
 </div>
